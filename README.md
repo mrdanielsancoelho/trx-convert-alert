@@ -4,8 +4,8 @@ Alerta que envia um email assim que determinada condição é verdadeira.
 
 ### Arquivo principal:
 
-[scrapinng.py](https://github.com/mrdanielsancoelho/trx-convert-alert/blob/main/scrapinng.py){:target="_blank"}
+[scrapinng.py](https://github.com/mrdanielsancoelho/trx-convert-alert/blob/main/scrapinng.py){:target="_blank" rel="noopener"}
 
 ### Site de teste:
 
-[TRON Hoje](https://dolarhoje.com/tron-hoje/){:target="_blank"}
+[TRON Hoje](https://dolarhoje.com/tron-hoje/){:target="_blank" rel="noopener"}
